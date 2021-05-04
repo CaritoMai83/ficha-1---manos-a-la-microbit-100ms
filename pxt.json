@@ -1,5 +1,6 @@
 {
     "name": "ficha 1 - manos a la microbit 100ms",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
